@@ -1,0 +1,10 @@
+
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/timer.js": {
+      "memory": 1024,
+      "maxDuration": 10
+    }
+  }
+}
