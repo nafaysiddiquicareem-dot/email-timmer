@@ -1,0 +1,10 @@
+{
+  "name": "email-countdown-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.77",
+    "dayjs": "^1.11.12"
+  }
+}
